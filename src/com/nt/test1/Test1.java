@@ -6,4 +6,7 @@ public class Test1 {
 public Date datemethod() {
 	return new Date();
 }
+public static void main(String[] args) {
+	System.out.println("this is main method");
+}
 }
