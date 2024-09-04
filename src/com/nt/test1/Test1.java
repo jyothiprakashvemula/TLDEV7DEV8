@@ -16,4 +16,10 @@ public static void main(String[] args) {
 void m2() {
 	System.out.println("Test1.m2()");
 }
+void m3() {
+System.out.println("Test1.m3()");	
+}
+void m4() {
+System.out.println("Test1.m4()");	
+}
 }
